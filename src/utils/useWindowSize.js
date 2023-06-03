@@ -1,11 +1,11 @@
-import React, { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 
 const useWindowsize = () => {
     const [windowSize, setWindowSize] = useState({
         width: window.innerWidth,
         height: window.innerHeight
     })
-
+    console.log(windowSize)
     const changeWindowSize = () => {
         setWindowSize({ width: window.innerWidth, height: window.innerHeight })
     }
