@@ -1,6 +1,6 @@
 import React from 'react'
 
-import logoSquare from '../img/logo230603_square.png'
+import logoSquare from '../kaivomies/img/logo230603_square.png'
 
 
 const Header = () => {
