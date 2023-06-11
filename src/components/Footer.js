@@ -1,7 +1,6 @@
 import React from 'react'
 import igLogo from '../kaivomies/img/ig_logo.png'
 import fbLogo from '../kaivomies/img/fb_logo.png'
-import logoSquare from '../img/logo230603_square.png'
 
 const FooterOld = () => {
 
