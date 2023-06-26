@@ -36,14 +36,14 @@ const Footer = () => {
             <div class="middle">
                 <h3>Ota yhteyttä</h3>
                 Elias Mako, puh. 0400781589<br></br>
-                tmikaivomies(at)gmail.com
+                tmikaivomies@gmail.com
             </div>
 
             <div class="right">
-                <a href='https://www.instagram.com' target='_blank' rel="noreferrer" style={{ marginRight: '10px' }}>
+                <a href='https://www.instagram.com/kaivomies' target='_blank' rel="noreferrer" style={{ marginRight: '10px' }}>
                     <img className='socialsPic' src={ igLogo } alt="Instagram" />
                 </a>
-                <a href='https://www.facebook.com' target='_blank' rel="noreferrer">
+                <a href='https://www.facebook.com/profile.php?id=100093469816422' target='_blank' rel="noreferrer">
                     <img className='socialsPic' src={ fbLogo } alt="Facebook" />
                 </a>
             </div>
