@@ -1,28 +1,6 @@
 import React from 'react'
 import igLogo from '../img/ig_logo.png'
 import fbLogo from '../img/fb_logo.png'
-import logoSquare from '../img/logo230603_square.png'
-
-const FooterOld = () => {
-
-    return(
-        <div className='footer'><div className='footerText'>
-            <h3>Ota yhteyttä</h3>
-            Tmi Kaivomies, Y-tunnus: 3365293-7<br></br>
-            Elias Mako<br></br>
-            puh. 0400781589<br></br>
-            tmikaivomies(at)gmail.com<br></br><br></br>
-            <a href='https://www.instagram.com' target='_blank' rel="noreferrer" style={{ marginRight: '10px' }}>
-                <img className='socialsPic' src={ igLogo } alt="Instagram" />
-            </a>
-            <a href='https://www.facebook.com' target='_blank' rel="noreferrer">
-                <img className='socialsPic' src={ fbLogo } alt="Facebook" />
-            </a>
-        </div></div>
-    )
-}
-
-
 
 
 const Footer = () => {
@@ -37,14 +15,14 @@ const Footer = () => {
             <div class="middle">
                 <h3>Ota yhteyttä</h3>
                 Elias Mako, puh. 0400781589<br></br>
-                tmikaivomies(at)gmail.com
+                tmikaivomies@gmail.com
             </div>
 
             <div class="right">
-                <a href='https://www.instagram.com' target='_blank' rel="noreferrer" style={{ marginRight: '10px' }}>
+                <a href='https://www.instagram.com/kaivomies' target='_blank' rel="noreferrer" style={{ marginRight: '10px' }}>
                     <img className='socialsPic' src={ igLogo } alt="Instagram" />
                 </a>
-                <a href='https://www.facebook.com' target='_blank' rel="noreferrer">
+                <a href='https://www.facebook.com/profile.php?id=100093469816422' target='_blank' rel="noreferrer">
                     <img className='socialsPic' src={ fbLogo } alt="Facebook" />
                 </a>
             </div>
@@ -54,16 +32,3 @@ const Footer = () => {
 }
 
 export default Footer
-{/* <div className='footer'><div className='footerText'>
-<h3>Ota yhteyttä</h3>
-Tmi Kaivomies, Y-tunnus: 3365293-7<br></br>
-Elias Mako<br></br>
-puh. 0400781589<br></br>
-tmikaivomies(at)gmail.com<br></br><br></br>
-<a href='https://www.instagram.com' target='_blank' rel="noreferrer" style={{ marginRight: '10px' }}>
-    <img className='socialsPic' src={ igLogo } alt="Instagram" />
-</a>
-<a href='https://www.facebook.com' target='_blank' rel="noreferrer">
-    <img className='socialsPic' src={ fbLogo } alt="Facebook" />
-</a>
-</div></div> */}
