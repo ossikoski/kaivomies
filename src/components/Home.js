@@ -31,7 +31,7 @@ const Home = () => {
             kalkkia ja suodatinhiekkaa.
             <br></br><br></br>
             <h3>
-                Hinnoittelu
+                Hinnasto
             </h3>
             <ul>
                 <li>100cm ja 80cm sisähalkaisija 495€</li>
@@ -40,7 +40,12 @@ const Home = () => {
                 <li>yli 7m syvä kaivo +100€</li>
             </ul>
             Muista, että kaivohuollon voit merkitä veroilmoituksen kotitalousvähennyksiin ja
-            saada 50% verovähennystä!
+            saada 50% verovähennystä.
+            <br></br><br></br>
+            <h3>
+                Toimialue
+            </h3>
+            Toimimme Varsinais-Suomen ja Satakunnan alueella, mutta kysy tarjousta myös pidemmälle!
         </div>
     )
 }
