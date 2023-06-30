@@ -25,9 +25,9 @@ const Home = () => {
                 Mitä kaivonhuoltotyöhön kuuluu?
             </h2><br></br>
             Kaivohuoltotyöhön kuuluu kaivon ulkoinen ja sisäinen tarkistus,
-            veden PH-arvon mittaus, kaivonrenkaiden pesu, pohjalietteiden poisto,
+            veden pH-arvon mittaus, kaivonrenkaiden pesu, pohjalietteiden poisto,
             yläsaumojen tiivistäminen ja veden desinfiointi.
-            Pohjan koostumuksen ja veden PH-arvon mukaan kaivon pohjalle lisätään tarvittaessa
+            Pohjan koostumuksen ja veden pH-arvon mukaan kaivon pohjalle lisätään tarvittaessa
             kalkkia ja suodatinhiekkaa.
             <br></br><br></br>
             <h3>
@@ -39,13 +39,17 @@ const Home = () => {
                 <li>150cm sisähalkaisija +150€</li>
                 <li>yli 7m syvä kaivo +100€</li>
             </ul>
+            Ylen artikkeli <a href="https://yle.fi/a/3-12047949" style={{ textDecoration: 'None'}}>Rengaskaivon huollon hinnoissa on tuhansien eurojen ero </a> 
+             voi antaa hyvää vertailukohtaa hinnoittelulle. <br></br>
+
             Muista, että kaivohuollon voit merkitä veroilmoituksen kotitalousvähennyksiin ja
             saada 50% verovähennystä.
             <br></br><br></br>
-            <h3>
+            <h2>
                 Toimialue
-            </h3>
-            Toimimme Varsinais-Suomen ja Satakunnan alueella, mutta kysy tarjousta myös pidemmälle!
+            </h2>
+            <br></br>
+            Toimin Varsinais-Suomen ja Satakunnan alueella, mutta kysy tarjousta myös pidemmälle!
         </div>
     )
 }
