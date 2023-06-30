@@ -44,7 +44,7 @@ const Home = () => {
 
             Muista, että kaivohuollon voit merkitä veroilmoituksen kotitalousvähennyksiin ja
             saada 50% verovähennystä.
-            <br></br><br></br>
+            <br></br>
             <h2>
                 Toimialue
             </h2>
