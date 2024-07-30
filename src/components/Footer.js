@@ -8,14 +8,14 @@ const Footer = () => {
     return(
         <div class="foot">
             <div class="left">
-                Tmi Kaivomies<br></br>
-                Y-tunnus: 3365293-7
+                Kaivomies Oy<br></br>
+                Y-tunnus: 3461968-8
             </div>
 
             <div class="middle">
                 <h3>Ota yhteyttä</h3>
                 Elias Mako, puh. 0400781589<br></br>
-                tmikaivomies@gmail.com
+                kaivomiesoy@gmail.com
             </div>
 
             <div class="right">

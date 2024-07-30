@@ -42,14 +42,13 @@ const Home = () => {
             Ylen artikkeli <a href="https://yle.fi/a/3-12047949" style={{ textDecoration: 'None'}}>Rengaskaivon huollon hinnoissa on tuhansien eurojen ero </a> 
              voi antaa hyvää vertailukohtaa hinnoittelulle. <br></br>
 
-            Muista, että kaivohuollon voit merkitä veroilmoituksen kotitalousvähennyksiin ja
-            saada 50% verovähennystä.
+            Muista, että kaivohuollon työn osuuden voit merkitä veroilmoituksen kotitalousvähennyksiin.
             <br></br>
             <h2>
                 Toimialue
             </h2>
             <br></br>
-            Toimin Varsinais-Suomen ja Satakunnan alueella, mutta kysy tarjousta myös pidemmälle!
+            Toimin Satakunnan, Pirkanmaan ja Varsinais-Suomen alueella, mutta kysy tarjousta myös pidemmälle!
         </div>
     )
 }
