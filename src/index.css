@@ -19,13 +19,13 @@ h1 {
 }
 
 h2 {
-  font-size: max(2vw, 20px);
+  font-size: max(2vw, 18px);
   margin-top: 50px;
   font-weight: bold;
 }
 
 h3 {
-  font-size: max(1.5vw, 16px);
+  font-size: max(1.5vw, 15px);
   font-weight: bold;
 }
 
@@ -65,8 +65,8 @@ h3 {
 
 .infoText {
   font-size: 14px;
-  margin-left: 30px;
-  margin-right: 30px;
+  margin-left: 40px;
+  margin-right: 40px;
   padding-bottom: 300px;
 }
 
@@ -94,4 +94,23 @@ h3 {
 .right {
   margin-top: 20px;
   flex: 25%;
+}
+
+.notification {
+  display: inline-block;
+  width: min(60vw, 20000px);
+  height: max(calc(100% - 25vw), 60px);
+  border: 3px solid rgb(234, 155, 93);
+  align-self: center;
+  margin-left: 7%;
+  margin-right: 10%;
+}
+
+.notificationText {
+  margin-top: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  text-align: center;
+  font-size: min(2.5vw, 20px);
 }
