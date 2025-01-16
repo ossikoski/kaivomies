@@ -13,7 +13,6 @@ function App() {
   return (
     <div className='mainDiv'>
       <Header/>
-      <Notification/>
       <Home/>
       <Footer/>
     </div>
