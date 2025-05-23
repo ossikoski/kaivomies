@@ -34,10 +34,11 @@ const Home = () => {
                 Hinnasto
             </h3>
             <ul>
-                <li>100cm ja 80cm sisähalkaisija 495€</li>
-                <li>120cm sisähalkaisija +100€</li>
-                <li>150cm sisähalkaisija +150€</li>
-                <li>yli 7m syvä kaivo +100€</li>
+                <li>100cm ja 80cm sisähalkaisija 495 €</li>
+                <li>120cm sisähalkaisija +100 €</li>
+                <li>150cm sisähalkaisija +150 €</li>
+                <li>yli 7m syvä kaivo +100 €</li>
+                <li>Huollon aikana vuotavan sauman tiivistäminen +50 €</li>
             </ul>
             Ylen artikkeli <a href="https://yle.fi/a/3-12047949" style={{ textDecoration: 'None'}}>Rengaskaivon huollon hinnoissa on tuhansien eurojen ero </a> 
              voi antaa hyvää vertailukohtaa hinnoittelulle. <br></br>
